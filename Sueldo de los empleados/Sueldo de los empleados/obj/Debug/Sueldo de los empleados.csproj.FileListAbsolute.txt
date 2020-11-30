@@ -1,0 +1,10 @@
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\bin\Debug\Sueldo de los empleados.exe.config
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\bin\Debug\Sueldo de los empleados.exe
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\bin\Debug\Sueldo de los empleados.pdb
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\obj\Debug\Sueldo de los empleados.csprojAssemblyReference.cache
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\obj\Debug\Sueldo_de_los_empleados.Form1.resources
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\obj\Debug\Sueldo_de_los_empleados.Properties.Resources.resources
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\obj\Debug\Sueldo de los empleados.csproj.GenerateResource.cache
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\obj\Debug\Sueldo de los empleados.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\obj\Debug\Sueldo de los empleados.exe
+C:\Users\josea\source\repos\Sueldo de los empleados\Sueldo de los empleados\obj\Debug\Sueldo de los empleados.pdb
